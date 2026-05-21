@@ -11,4 +11,4 @@ M.E., Electronic Information, Northeast Normal University, 2025—Present.\
 B.E., Electronic Information Engineering, Southwest Petroleum University, 2020—2024.
 
 #### Research Interests
-Image Restoration; Computer Vision; Semantic Transmission; Generative Models (GANs, Diffusion Models); Deep Joint Source-Channel Coding (DeepJSCC)
+Image Restoration; Computer Vision
