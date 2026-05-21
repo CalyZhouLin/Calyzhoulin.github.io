@@ -33,11 +33,8 @@ Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Pl
 </details>
 
 <details>
-<summary><strong>Repository Structure </strong></summary>
-This repository contains the source code for my GitHub Pages website:
-* `contents/` : Contains the Markdown files for the website content (e.g., Home, Publications, Awards).
-* `static/` : Contains images, CSS, and other static assets used on the website.
-* `config.yml` : Global configuration for the website's title and layout.
+<summary><strong>Else </strong></summary>
+Coming soon...
 </details>
 
 ## License
